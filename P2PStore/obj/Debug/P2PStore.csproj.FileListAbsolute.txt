@@ -1,0 +1,1 @@
+c:\users\lucas\documents\visual studio 2015\Projects\P2PStore\P2PStore\bin\Debug\P2PStore.exe.config
